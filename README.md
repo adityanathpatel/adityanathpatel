@@ -1,7 +1,20 @@
-# 💫 Hi 👋, I'm Aditya Nath Patel
-**A Btech CSE Student**
+## 👋 Hi, I'm Aditya Nath Patel
 
-Email Me 👉 ✉️ **adityasir887@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+🎓 **Computer Science Student** at **SRMCEM, Lucknow**, passionate about technology, problem-solving, and building impactful solutions.
+
+### 🚀 About Me
+
+- 💻 Strong foundation in **Software Development, Algorithms & Programming**
+- 🌐 Exploring **Web Development & Mobile Application Development**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- ☁️ Exploring **Cloud Computing**
+- 🧠 Passionate about **Problem-Solving & Continuous Learning**
+- 🚀 Focused on turning **ideas into practical, impactful technology**
+- 🤝 Open to **collaborating on innovative projects**
+
+### 🎯 My Goal
+
+To continuously expand my technical skills, build meaningful projects, and contribute to technology that creates a real-world impact. 
 
   
 ## 🌐 Socials:
