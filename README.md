@@ -43,6 +43,3 @@ To continuously expand my technical skills, build meaningful projects, and contr
 ![](https://github-contributor-stats.vercel.app/api?username=adityanathpatel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=adityanathpatel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
