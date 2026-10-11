@@ -1,4 +1,9 @@
-## 👋 Hi, I'm Aditya Nath Patel
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30&height=220&section=header&text=ADITYA%20NATH%20PATEL&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=36)
+
+</div>
+
 
 🎓 **Computer Science Student** at **SRMCEM, Lucknow**, passionate about technology, problem-solving, and building impactful solutions.
 
