@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30&height=220&section=header&text=ADITYA%20NATH%20PATEL&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=36)
 
 </div>
-
+<div  align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+new+technologies+and+constantly+learning.;Passionate+about+full-stack+development+and+problem-solving.;Building+scalable+and+efficient+web+applications.;Experienced+in+React%2C+Next.js%2C+Node.js%2C+and+databases.;Open-source+contributor+and+tech+enthusiast.;Bridging+frontend+and+backend+for+seamless+user%C2%A0experiences." alt="Typing SVG" />
+</div>
 
 🎓 **Computer Science Student** at **SRMCEM, Lucknow**, passionate about technology, problem-solving, and building impactful solutions.
 
@@ -19,6 +21,7 @@
 - 🚀 Focused on turning **ideas into practical, impactful technology**
 - 🤝 Open to **collaborating on innovative projects**
 
+<!-- [![An image of @adityanathpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityanathpatel)](https://holopin.io/@adityanathpatel) -->
 
 ### 🎯 My Goal
 
@@ -45,10 +48,20 @@ To continuously expand my technical skills, build meaningful projects, and contr
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityanathpatel&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanathpatel&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=false&bg_color=0d1117&title_color=00ff9f&text_color=ffffff)<br/>
-![](https://streak-stats.demolab.com/?user=adityanathpatel&theme=dark&hide_border=false)
+<div align="center">
+
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanathpatel&theme=algolia">
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityanathpatel&theme=algolia">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanathpatel&theme=algolia">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanathpatel&theme=algolia">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanathpatel&theme=algolia&utcOffset=8">
+
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=adityanathpatel&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanathpatel&theme=radical">
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityanathpatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
