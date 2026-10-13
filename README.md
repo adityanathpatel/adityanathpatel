@@ -56,8 +56,7 @@ To continuously expand my technical skills, build meaningful projects, and contr
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityanathpatel&theme=algolia">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanathpatel&theme=algolia">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanathpatel&theme=algolia">
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanathpatel&theme=algolia&utcOffset=8">
-
+<!-- <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanathpatel&theme=algolia&utcOffset=8"> -->
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=adityanathpatel&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanathpatel&theme=radical">
 
