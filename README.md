@@ -21,7 +21,7 @@
 - 🚀 Focused on turning **ideas into practical, impactful technology**
 - 🤝 Open to **collaborating on innovative projects**
 
-<!-- [![An image of @adityanathpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityanathpatel)](https://holopin.io/@adityanathpatel) -->
+[![An image of @adityanathpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityanathpatel)](https://holopin.io/@adityanathpatel)
 
 ### 🎯 My Goal
 
