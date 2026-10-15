@@ -37,7 +37,7 @@ To continuously expand my technical skills, build meaningful projects, and contr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanathpatel) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adityadhanus) 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityanathpatel)
-<!-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasir887@gmail.com) -->
+<!-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xxxxxx@gmail.com) -->
  
 
 <!-- Snake Game Repo View -->
@@ -56,7 +56,7 @@ To continuously expand my technical skills, build meaningful projects, and contr
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityanathpatel&theme=algolia">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanathpatel&theme=algolia">
 <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanathpatel&theme=algolia">
-<!-- <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanathpatel&theme=algolia&utcOffset=8"> -->
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityanathpatel&theme=algolia&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=adityanathpatel&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=adityanathpatel&theme=radical">
 
